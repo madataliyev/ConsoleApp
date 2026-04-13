@@ -122,8 +122,7 @@
               "RelativeToolTip": "CourseApp\\Controllers\\StudentController.cs",
               "ViewState": "AgIAALEAAAAAAAAAAAAiwN4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T04:56:49.396Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T04:56:49.396Z"
             },
             {
               "$type": "Document",
@@ -133,7 +132,7 @@
               "RelativeDocumentMoniker": "CourseApp\\Program.cs",
               "ToolTip": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\CourseApp\\Program.cs",
               "RelativeToolTip": "CourseApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAGwAAAAAAAAAAAAYwDsAAAASAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T03:40:22.69Z",
               "EditorCaption": ""
@@ -148,8 +147,7 @@
               "RelativeToolTip": "ServiceLayer\\Services\\Implementations\\CourseGroupService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T04:49:29.088Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T04:49:29.088Z"
             },
             {
               "$type": "Document",
@@ -161,8 +159,7 @@
               "RelativeToolTip": "ServiceLayer\\Services\\Implementations\\StudentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T04:49:54.132Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T04:49:54.132Z"
             },
             {
               "$type": "Document",
@@ -174,8 +171,7 @@
               "RelativeToolTip": "CourseApp\\Controllers\\CourseGroupController.cs",
               "ViewState": "AgIAAJgAAAAAAAAAAAAiwMUAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T04:56:23.936Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T04:56:23.936Z"
             },
             {
               "$type": "Document",
