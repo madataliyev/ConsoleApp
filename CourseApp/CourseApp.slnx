@@ -2,4 +2,5 @@
   <Project Path="CourseApp/CourseApp.csproj" />
   <Project Path="DomainLayer/DomainLayer.csproj" />
   <Project Path="RepositoryLayer/RepositoryLayer.csproj" Id="c869acc5-48d1-41dd-9668-06a42e15b02c" />
+  <Project Path="ServiceLayer/ServiceLayer.csproj" Id="77693103-6ab8-4fd0-839d-bde99d152ecb" />
 </Solution>
