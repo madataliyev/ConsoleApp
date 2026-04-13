@@ -16,6 +16,8 @@ public class CourseGroupService : ICourseGroupService
     }
     public void Create(CourseGroup courseGroup)
     {
+        var groups = _groupRepository.GetAll();
+        
         if (courseGroup is null)
             throw new ArgumentNullException("Course group cannot be null!");
 

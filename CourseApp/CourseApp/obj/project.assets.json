@@ -1,11 +1,69 @@
 {
   "version": 3,
   "targets": {
-    "net10.0": {}
+    "net10.0": {
+      "DomainLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "compile": {
+          "bin/placeholder/DomainLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/DomainLayer.dll": {}
+        }
+      },
+      "RepositoryLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "DomainLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/RepositoryLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/RepositoryLayer.dll": {}
+        }
+      },
+      "ServiceLayer/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v10.0",
+        "dependencies": {
+          "DomainLayer": "1.0.0",
+          "RepositoryLayer": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/ServiceLayer.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/ServiceLayer.dll": {}
+        }
+      }
+    }
   },
-  "libraries": {},
+  "libraries": {
+    "DomainLayer/1.0.0": {
+      "type": "project",
+      "path": "../DomainLayer/DomainLayer.csproj",
+      "msbuildProject": "../DomainLayer/DomainLayer.csproj"
+    },
+    "RepositoryLayer/1.0.0": {
+      "type": "project",
+      "path": "../RepositoryLayer/RepositoryLayer.csproj",
+      "msbuildProject": "../RepositoryLayer/RepositoryLayer.csproj"
+    },
+    "ServiceLayer/1.0.0": {
+      "type": "project",
+      "path": "../ServiceLayer/ServiceLayer.csproj",
+      "msbuildProject": "../ServiceLayer/ServiceLayer.csproj"
+    }
+  },
   "projectFileDependencyGroups": {
-    "net10.0": []
+    "net10.0": [
+      "DomainLayer >= 1.0.0",
+      "RepositoryLayer >= 1.0.0",
+      "ServiceLayer >= 1.0.0"
+    ]
   },
   "packageFolders": {
     "C:\\Users\\Madat\\.nuget\\packages\\": {},
@@ -39,7 +97,17 @@
         "net10.0": {
           "framework": "net10.0",
           "targetAlias": "net10.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\DomainLayer\\DomainLayer.csproj": {
+              "projectPath": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\DomainLayer\\DomainLayer.csproj"
+            },
+            "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\RepositoryLayer\\RepositoryLayer.csproj": {
+              "projectPath": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\RepositoryLayer\\RepositoryLayer.csproj"
+            },
+            "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\ServiceLayer\\ServiceLayer.csproj": {
+              "projectPath": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\ServiceLayer\\ServiceLayer.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

@@ -13,3 +13,11 @@ C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\refint\C
 C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\CourseApp.pdb
 C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\CourseApp.genruntimeconfig.cache
 C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\ref\CourseApp.dll
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\bin\Debug\net10.0\DomainLayer.dll
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\bin\Debug\net10.0\RepositoryLayer.dll
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\bin\Debug\net10.0\ServiceLayer.dll
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\bin\Debug\net10.0\DomainLayer.pdb
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\bin\Debug\net10.0\RepositoryLayer.pdb
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\bin\Debug\net10.0\ServiceLayer.pdb
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\CourseApp.csproj.AssemblyReference.cache
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\CourseApp.csproj.Up2Date

@@ -11,6 +11,18 @@
       "RelativeMoniker": "D:0:0:{77693103-6AB8-4FD0-839D-BDE99D152ECB}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\implementations\\studentservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
+      "AbsoluteMoniker": "D:0:0:{F6E58ED2-E152-9F84-D785-DE08573D6E48}|CourseApp\\CourseApp.csproj|c:\\users\\madat\\desktop\\consoleapp\\courseapp\\courseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E58ED2-E152-9F84-D785-DE08573D6E48}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E58ED2-E152-9F84-D785-DE08573D6E48}|CourseApp\\CourseApp.csproj|c:\\users\\madat\\desktop\\consoleapp\\courseapp\\courseapp\\controllers\\coursegroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E58ED2-E152-9F84-D785-DE08573D6E48}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\controllers\\coursegroupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F6E58ED2-E152-9F84-D785-DE08573D6E48}|CourseApp\\CourseApp.csproj|c:\\users\\madat\\desktop\\consoleapp\\courseapp\\courseapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F6E58ED2-E152-9F84-D785-DE08573D6E48}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{77693103-6AB8-4FD0-839D-BDE99D152ECB}|ServiceLayer\\ServiceLayer.csproj|c:\\users\\madat\\desktop\\consoleapp\\courseapp\\servicelayer\\services\\interface\\icoursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{77693103-6AB8-4FD0-839D-BDE99D152ECB}|ServiceLayer\\ServiceLayer.csproj|solutionrelative:servicelayer\\services\\interface\\icoursegroupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -85,10 +97,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{E634B319-63F3-0BB1-C405-A0DD5EAE83ED}|DomainLayer\\DomainLayer.csproj|c:\\users\\madat\\desktop\\consoleapp\\courseapp\\domainlayer\\enums\\coursegroupmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E634B319-63F3-0BB1-C405-A0DD5EAE83ED}|DomainLayer\\DomainLayer.csproj|solutionrelative:domainlayer\\enums\\coursegroupmethods.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F6E58ED2-E152-9F84-D785-DE08573D6E48}|CourseApp\\CourseApp.csproj|c:\\users\\madat\\desktop\\consoleapp\\courseapp\\courseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F6E58ED2-E152-9F84-D785-DE08573D6E48}|CourseApp\\CourseApp.csproj|solutionrelative:courseapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -112,7 +120,7 @@
               "RelativeDocumentMoniker": "ServiceLayer\\Services\\Implementations\\StudentService.cs",
               "ToolTip": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Implementations\\StudentService.cs",
               "RelativeToolTip": "ServiceLayer\\Services\\Implementations\\StudentService.cs",
-              "ViewState": "AgIAAE0AAAAAAAAAAAAiwHoAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAHoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T04:49:54.132Z",
               "EditorCaption": ""
@@ -123,16 +131,54 @@
               "Title": "CourseGroupService.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Implementations\\CourseGroupService.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Services\\Implementations\\CourseGroupService.cs",
-              "ToolTip": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Implementations\\CourseGroupService.cs",
-              "RelativeToolTip": "ServiceLayer\\Services\\Implementations\\CourseGroupService.cs",
-              "ViewState": "AgIAAEcAAAAAAAAAAAAiwE4AAAAAAAAAAAAAAA==",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Implementations\\CourseGroupService.cs*",
+              "RelativeToolTip": "ServiceLayer\\Services\\Implementations\\CourseGroupService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T04:49:29.088Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\CourseApp\\Program.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Program.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\CourseApp\\Program.cs",
+              "RelativeToolTip": "CourseApp\\Program.cs",
+              "ViewState": "AgIAAEgAAAAAAAAAAAA1wG0AAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T03:40:22.69Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 3,
+              "Title": "CourseGroupController.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\CourseApp\\Controllers\\CourseGroupController.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Controllers\\CourseGroupController.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\CourseApp\\Controllers\\CourseGroupController.cs",
+              "RelativeToolTip": "CourseApp\\Controllers\\CourseGroupController.cs",
+              "ViewState": "AgIAAJgAAAAAAAAAAAAiwMUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T04:56:23.936Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\CourseApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "CourseApp\\Controllers\\StudentController.cs",
+              "ToolTip": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\CourseApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "CourseApp\\Controllers\\StudentController.cs",
+              "ViewState": "AgIAALEAAAAAAAAAAAAiwN4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-13T04:56:49.396Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "IStudentService.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Interface\\IStudentService.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interface\\IStudentService.cs",
@@ -140,12 +186,11 @@
               "RelativeToolTip": "ServiceLayer\\Services\\Interface\\IStudentService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T04:47:53.367Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T04:47:53.367Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 5,
               "Title": "ICourseGroupService.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\ServiceLayer\\Services\\Interface\\ICourseGroupService.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Services\\Interface\\ICourseGroupService.cs",
@@ -153,12 +198,11 @@
               "RelativeToolTip": "ServiceLayer\\Services\\Interface\\ICourseGroupService.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T04:47:27.692Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T04:47:27.692Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 7,
               "Title": "Helper.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\ServiceLayer\\Helpers\\Helper.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Helpers\\Helper.cs",
@@ -166,12 +210,11 @@
               "RelativeToolTip": "ServiceLayer\\Helpers\\Helper.cs",
               "ViewState": "AgIAAD0AAAAAAAAAAAA4wGoAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T04:45:38.764Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T04:45:38.764Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 9,
               "Title": "EmptyListException.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\ServiceLayer\\Exseptions\\EmptyListException.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Exseptions\\EmptyListException.cs",
@@ -179,12 +222,11 @@
               "RelativeToolTip": "ServiceLayer\\Exseptions\\EmptyListException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T04:43:46.673Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T04:43:46.673Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 8,
               "Title": "NotFoundExceptions.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\ServiceLayer\\Exseptions\\NotFoundExceptions.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Exseptions\\NotFoundExceptions.cs",
@@ -192,12 +234,11 @@
               "RelativeToolTip": "ServiceLayer\\Exseptions\\NotFoundExceptions.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T04:44:08.191Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T04:44:08.191Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 10,
               "Title": "ArgumentNegativeException.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\ServiceLayer\\Exseptions\\ArgumentNegativeException.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Exseptions\\ArgumentNegativeException.cs",
@@ -205,12 +246,11 @@
               "RelativeToolTip": "ServiceLayer\\Exseptions\\ArgumentNegativeException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T04:43:19.246Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T04:43:19.246Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 11,
               "Title": "AlreadyExistException.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\ServiceLayer\\Exseptions\\AlreadyExistException.cs",
               "RelativeDocumentMoniker": "ServiceLayer\\Exseptions\\AlreadyExistException.cs",
@@ -218,12 +258,11 @@
               "RelativeToolTip": "ServiceLayer\\Exseptions\\AlreadyExistException.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T04:42:30.314Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T04:42:30.314Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "CourseGroupRepository.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\RepositoryLayer\\Repositories\\Implementations\\CourseGroupRepository.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Implementations\\CourseGroupRepository.cs",
@@ -235,7 +274,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 12,
               "Title": "ICourseGroupRepository.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\RepositoryLayer\\Repositories\\Interface\\ICourseGroupRepository.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Interface\\ICourseGroupRepository.cs",
@@ -243,12 +282,11 @@
               "RelativeToolTip": "RepositoryLayer\\Repositories\\Interface\\ICourseGroupRepository.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T03:59:55.438Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-13T03:59:55.438Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\RepositoryLayer\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\Data\\AppDbContext.cs",
@@ -260,7 +298,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "NotFoundException.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\RepositoryLayer\\Exceptions\\NotFoundException.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\Exceptions\\NotFoundException.cs",
@@ -272,7 +310,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "StudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\RepositoryLayer\\Repositories\\Implementations\\StudentRepository.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Implementations\\StudentRepository.cs",
@@ -284,7 +322,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 17,
               "Title": "IRepository.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\RepositoryLayer\\Repositories\\Interface\\IRepository.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Interface\\IRepository.cs",
@@ -296,7 +334,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 18,
               "Title": "IStudentRepository.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\RepositoryLayer\\Repositories\\Interface\\IStudentRepository.cs",
               "RelativeDocumentMoniker": "RepositoryLayer\\Repositories\\Interface\\IStudentRepository.cs",
@@ -308,7 +346,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 20,
               "Title": "BaseEntity.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\DomainLayer\\Models\\Common\\BaseEntity.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\Common\\BaseEntity.cs",
@@ -320,7 +358,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 19,
               "Title": "Student.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\DomainLayer\\Models\\Student.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\Student.cs",
@@ -332,7 +370,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 21,
               "Title": "CourseGroup.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\DomainLayer\\Models\\CourseGroup.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Models\\CourseGroup.cs",
@@ -344,7 +382,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 22,
               "Title": "StudentMethods.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\DomainLayer\\Enums\\StudentMethods.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Enums\\StudentMethods.cs",
@@ -356,7 +394,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 23,
               "Title": "CourseGroupMethods.cs",
               "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\DomainLayer\\Enums\\CourseGroupMethods.cs",
               "RelativeDocumentMoniker": "DomainLayer\\Enums\\CourseGroupMethods.cs",
@@ -365,18 +403,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-13T03:42:17.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 21,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\CourseApp\\Program.cs",
-              "RelativeDocumentMoniker": "CourseApp\\Program.cs",
-              "ToolTip": "C:\\Users\\Madat\\Desktop\\ConsoleApp\\CourseApp\\CourseApp\\Program.cs",
-              "RelativeToolTip": "CourseApp\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-13T03:40:22.69Z"
             }
           ]
         }
