@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="CourseApp/CourseApp.csproj" />
+  <Project Path="DomainLayer/DomainLayer.csproj" />
+</Solution>
