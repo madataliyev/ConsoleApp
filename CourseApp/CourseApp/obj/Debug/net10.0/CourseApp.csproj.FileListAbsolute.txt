@@ -1,0 +1,15 @@
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\bin\Debug\net10.0\CourseApp.exe
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\bin\Debug\net10.0\CourseApp.deps.json
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\bin\Debug\net10.0\CourseApp.runtimeconfig.json
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\bin\Debug\net10.0\CourseApp.dll
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\bin\Debug\net10.0\CourseApp.pdb
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\CourseApp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\CourseApp.AssemblyInfoInputs.cache
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\CourseApp.AssemblyInfo.cs
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\CourseApp.csproj.CoreCompileInputs.cache
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\CourseApp.sourcelink.json
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\CourseApp.dll
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\refint\CourseApp.dll
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\CourseApp.pdb
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\CourseApp.genruntimeconfig.cache
+C:\Users\Madat\Desktop\ConsoleApp\CourseApp\CourseApp\obj\Debug\net10.0\ref\CourseApp.dll
